@@ -63,6 +63,8 @@
 ![image](https://www.cloudzero.com/wp-content/uploads/2023/10/how-vertical-scaling-works-1.webp)
 
 ## NSG (Network Security Gaps)
+
+![image](https://www.fortinet.com/content/dam/fortinet/images/cyberglossary/what-is-an-air-gap_.png)
 * A network security gap refers to vulnerabilities or weaknesses in a network's security that can be exploited by cyber threats.
 * These gaps can manifest in various forms, such as outdated software, weak policies, or employee behavior.
 * Unaddressed security gaps can lead to serious consequences, such as data breaches, malware infections, cyber espionage, and business disruption.
